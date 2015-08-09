@@ -1,5 +1,5 @@
 import random
-test od Piotrka
+test od Piotrka v2
 dates = []
 for i in range (50):
     a = int(random.random()*365)
